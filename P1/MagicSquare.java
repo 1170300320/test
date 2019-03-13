@@ -30,10 +30,15 @@ public class MagicSquare {
 		br = new BufferedReader(file);
 		try {
 			String line = br.readLine();// 按行读取
+			if(line.contains(" "))
+			{
+				
+					System.out.print("间隔不是制表符");
+					return false;
+				}
 			String[] sp = null;
 			sp = line.split("\t");
 			int lines = sp.length;// 将每一行转换成整数
-			String[][] c = new String[lines][lines];
 			int[][] cc = new int[lines][lines];
 			for(int m = 0;m<lines;m++)
 			{
@@ -41,6 +46,7 @@ public class MagicSquare {
 				{
 					cc[0][m] = Integer.valueOf(sp[m]);
 				}
+				
 				else
 					
 					{
@@ -53,9 +59,16 @@ public class MagicSquare {
 			while ((line = br.readLine()) != null) {
 				sp = line.split("\t");
 				int line0 = sp.length;
+				if(line.contains(" "))
+				{
+					
+						System.out.print("间隔不是制表符");
+						return false;
+					}
+				
 				if(line0!=lines)//个数不一样，不是方阵
 					{
-					System.out.print("间隔不是制表符");
+					System.out.print("非方阵");
 					return false;
 					}
 				for (int i = 0; i < line0; i++) {
@@ -92,6 +105,11 @@ public class MagicSquare {
 				else
 					sum = 0;
 			}
+			if(count!=sp.length)
+			{
+				System.out.println("非方阵 ");
+				return false;
+			}
 			return true;
 
 		} catch (IOException e) {
@@ -100,7 +118,7 @@ public class MagicSquare {
 		return true;
 	}
 
-	public static boolean generateMagicSquare(int n) {
+	public static boolean generateMagicSquare(int n) {//赋值范围为1~n*n
         if(n%2 == 0||n<0) {
         	return false;
         }
@@ -108,9 +126,9 @@ public class MagicSquare {
 		int row = 0, col = n / 2, i, j, square = n * n;
 		for (i = 1; i <= square; i++) {
 			magic[row][col] = i;
-			if (i % n == 0)// 若已经记满一行
+			if (i % n == 0)// 若赋值数字是n的倍数
 				row++;
-			else {// 如果没记满一行
+			else {// 如果不是n的倍数
 				if (row == 0)// 如果是第一行的话
 					row = n - 1;// 将行数调整为最后一行
 				else
@@ -125,7 +143,7 @@ public class MagicSquare {
 		for (i = 0; i < n; i++) {
 			for (j = 0; j < n; j++)
 				System.out.print(magic[i][j] + "\t");
-			System.out.println();
+			    System.out.println();
 		}
         try {
 		File ff = new File("src/P1/txt/6.txt");
@@ -155,7 +173,7 @@ public class MagicSquare {
 		System.out.println(MagicSquare.isLegalMagic("src/P1/txt/4.txt"));
 		System.out.println(MagicSquare.isLegalMagic("src/P1/txt/5.txt"));
 		System.out.println(MagicSquare.isLegalMagic("src/P1/txt/6.txt"));
-	    
+	    s.close();
 
 	}
 
