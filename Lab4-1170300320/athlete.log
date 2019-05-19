@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:14.483409600Z</date>
+  <millis>1558104734483</millis>
+  <nanos>409600</nanos>
+  <sequence>1</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>17</thread>
+  <message>此次比赛类型为100米</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:14.493880600Z</date>
+  <millis>1558104734493</millis>
+  <nanos>880600</nanos>
+  <sequence>3</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>17</thread>
+  <message>共有7条跑道</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:14.579653200Z</date>
+  <millis>1558104734579</millis>
+  <nanos>653200</nanos>
+  <sequence>5</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>17</thread>
+  <message>此次比赛类型为100米</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:14.582644400Z</date>
+  <millis>1558104734582</millis>
+  <nanos>644400</nanos>
+  <sequence>7</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>17</thread>
+  <message>共有7条跑道</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:54.268860100Z</date>
+  <millis>1558104774268</millis>
+  <nanos>860100</nanos>
+  <sequence>1</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道的名字为Er</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:54.278834300Z</date>
+  <millis>1558104774278</millis>
+  <nanos>834300</nanos>
+  <sequence>3</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>共6条轨道</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:54.282822800Z</date>
+  <millis>1558104774282</millis>
+  <nanos>822800</nanos>
+  <sequence>5</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第1条轨道有2个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:54.285815600Z</date>
+  <millis>1558104774285</millis>
+  <nanos>815600</nanos>
+  <sequence>7</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第2条轨道有8个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:54.288807600Z</date>
+  <millis>1558104774288</millis>
+  <nanos>807600</nanos>
+  <sequence>9</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第3条轨道有18个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:54.292796100Z</date>
+  <millis>1558104774292</millis>
+  <nanos>796100</nanos>
+  <sequence>11</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第4条轨道有30个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:54.294791200Z</date>
+  <millis>1558104774294</millis>
+  <nanos>791200</nanos>
+  <sequence>13</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第5条轨道有8个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:52:54.299778200Z</date>
+  <millis>1558104774299</millis>
+  <nanos>778200</nanos>
+  <sequence>15</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第6条轨道有2个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.405122500Z</date>
+  <millis>1558104783405</millis>
+  <nanos>122500</nanos>
+  <sequence>1</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>中心人物的名字为TommyWong年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.415095400Z</date>
+  <millis>1558104783415</millis>
+  <nanos>95400</nanos>
+  <sequence>3</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为LisaWong年龄为30性别为女</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.417090100Z</date>
+  <millis>1558104783417</millis>
+  <nanos>90100</nanos>
+  <sequence>5</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为TomWong年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.420082100Z</date>
+  <millis>1558104783420</millis>
+  <nanos>82100</nanos>
+  <sequence>7</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为FrankLee年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.422076800Z</date>
+  <millis>1558104783422</millis>
+  <nanos>76800</nanos>
+  <sequence>9</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为DavidChen年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.424071400Z</date>
+  <millis>1558104783424</millis>
+  <nanos>71400</nanos>
+  <sequence>11</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为JackMa年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.426066100Z</date>
+  <millis>1558104783426</millis>
+  <nanos>66100</nanos>
+  <sequence>13</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为PonyMa年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.434044300Z</date>
+  <millis>1558104783434</millis>
+  <nanos>44300</nanos>
+  <sequence>15</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>TommyWong与LisaWong有亲密度为0.98的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.437037200Z</date>
+  <millis>1558104783437</millis>
+  <nanos>37200</nanos>
+  <sequence>17</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>TommyWong与TomWong有亲密度为0.29的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.440039Z</date>
+  <millis>1558104783440</millis>
+  <nanos>39000</nanos>
+  <sequence>19</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>TomWong与FrankLee有亲密度为0.71的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.443021600Z</date>
+  <millis>1558104783443</millis>
+  <nanos>21600</nanos>
+  <sequence>21</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>FrankLee与DavidChen有亲密度为0.02的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.445016600Z</date>
+  <millis>1558104783445</millis>
+  <nanos>16600</nanos>
+  <sequence>23</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>TommyWong与DavidChen有亲密度为0.342的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:03.447010900Z</date>
+  <millis>1558104783447</millis>
+  <nanos>10900</nanos>
+  <sequence>25</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>JackMa与PonyMa有亲密度为0.999的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:49.517019400Z</date>
+  <millis>1558104829517</millis>
+  <nanos>19400</nanos>
+  <sequence>1</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道的名字为Er</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:49.525995400Z</date>
+  <millis>1558104829525</millis>
+  <nanos>995400</nanos>
+  <sequence>3</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>共6条轨道</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:49.528987800Z</date>
+  <millis>1558104829528</millis>
+  <nanos>987800</nanos>
+  <sequence>5</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第1条轨道有2个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:49.531979400Z</date>
+  <millis>1558104829531</millis>
+  <nanos>979400</nanos>
+  <sequence>7</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第2条轨道有8个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:49.534971Z</date>
+  <millis>1558104829534</millis>
+  <nanos>971000</nanos>
+  <sequence>9</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第3条轨道有18个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:49.536966900Z</date>
+  <millis>1558104829536</millis>
+  <nanos>966900</nanos>
+  <sequence>11</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第4条轨道有30个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:49.538961100Z</date>
+  <millis>1558104829538</millis>
+  <nanos>961100</nanos>
+  <sequence>13</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第5条轨道有8个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:53:49.542949600Z</date>
+  <millis>1558104829542</millis>
+  <nanos>949600</nanos>
+  <sequence>15</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>第6条轨道有2个电子</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.518205100Z</date>
+  <millis>1558104875518</millis>
+  <nanos>205100</nanos>
+  <sequence>1</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>中心人物的名字为TommyWong年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.528178800Z</date>
+  <millis>1558104875528</millis>
+  <nanos>178800</nanos>
+  <sequence>3</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为LisaWong年龄为30性别为女</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.531170Z</date>
+  <millis>1558104875531</millis>
+  <nanos>170000</nanos>
+  <sequence>5</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为TomWong年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.533164600Z</date>
+  <millis>1558104875533</millis>
+  <nanos>164600</nanos>
+  <sequence>7</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为FrankLee年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.536157Z</date>
+  <millis>1558104875536</millis>
+  <nanos>157000</nanos>
+  <sequence>9</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为DavidChen年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.539148600Z</date>
+  <millis>1558104875539</millis>
+  <nanos>148600</nanos>
+  <sequence>11</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为JackMa年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.541148200Z</date>
+  <millis>1558104875541</millis>
+  <nanos>148200</nanos>
+  <sequence>13</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>轨道人物的名字为PonyMa年龄为30性别为男</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.551117400Z</date>
+  <millis>1558104875551</millis>
+  <nanos>117400</nanos>
+  <sequence>15</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>TommyWong与LisaWong有亲密度为0.98的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.554109400Z</date>
+  <millis>1558104875554</millis>
+  <nanos>109400</nanos>
+  <sequence>17</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>TommyWong与TomWong有亲密度为0.29的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.557101Z</date>
+  <millis>1558104875557</millis>
+  <nanos>101000</nanos>
+  <sequence>19</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>TomWong与FrankLee有亲密度为0.71的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.560092600Z</date>
+  <millis>1558104875560</millis>
+  <nanos>92600</nanos>
+  <sequence>21</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>FrankLee与DavidChen有亲密度为0.02的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.563085Z</date>
+  <millis>1558104875563</millis>
+  <nanos>85000</nanos>
+  <sequence>23</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>TommyWong与DavidChen有亲密度为0.342的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T14:54:35.566077400Z</date>
+  <millis>1558104875566</millis>
+  <nanos>77400</nanos>
+  <sequence>25</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>1</thread>
+  <message>JackMa与PonyMa有亲密度为0.999的关系</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T15:00:22.897480900Z</date>
+  <millis>1558105222897</millis>
+  <nanos>480900</nanos>
+  <sequence>1</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>17</thread>
+  <message>此次比赛类型为100米</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T15:00:22.907454600Z</date>
+  <millis>1558105222907</millis>
+  <nanos>454600</nanos>
+  <sequence>3</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>17</thread>
+  <message>共有7条跑道</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T15:00:22.991230900Z</date>
+  <millis>1558105222991</millis>
+  <nanos>230900</nanos>
+  <sequence>5</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>17</thread>
+  <message>此次比赛类型为100米</message>
+</record>
+</log>
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-05-17T15:00:22.994222900Z</date>
+  <millis>1558105222994</millis>
+  <nanos>222900</nanos>
+  <sequence>7</sequence>
+  <logger>applications.AthleteUI</logger>
+  <level>INFO</level>
+  <class>circularorbit.logging</class>
+  <method>logFunction</method>
+  <thread>17</thread>
+  <message>共有7条跑道</message>
+</record>
+</log>
